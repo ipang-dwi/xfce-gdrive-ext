@@ -11,6 +11,9 @@ This is gdrive extension for xfce, so you can access all of your file in your gd
 How to :
 Just follow the terminal file for instructions.
 
+<img src="https://github.com/ipang-dwi/xfce-gdrive-ext/blob/master/setting.jpg" />
+<img src="https://github.com/ipang-dwi/xfce-gdrive-ext/blob/master/setting2.jpg" />
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
