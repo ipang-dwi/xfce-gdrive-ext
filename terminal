@@ -1,0 +1,11 @@
+============================== just setup using this command ===================
+================================================================================
+# sudo apt install gnome-online-accounts
+# sudo apt install gnome-control-center
+# cp /usr/share/applications/gnome-control-center.desktop ~/.local/share/applications/
+# sed -i '/Exec/c\Exec=env XDG_CURRENT_DESKTOP=GNOME gnome-control-center' ~/.local/share/applications/gnome-control-center.desktop
+# sed -i '/OnlyShowIn/c\OnlyShowIn=GNOME;Unity;XFCE;' ~/.local/share/applications/gnome-control-center.desktop
+================================================================================
+= using command below to run, or access from Whisker menu->Settings->Settings
+================================================================================
+xdg-open ~/.local/share/applications/gnome-control-center.desktop
